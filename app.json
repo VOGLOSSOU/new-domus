@@ -1,7 +1,8 @@
 {
   "expo": {
     "name": "TSB",
-    "slug": "DomusApp",
+    "slug": "domusapp-new",
+    "owner": "newnathan16",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -32,7 +33,7 @@
     ],
     "extra": {
       "eas": {
-        "projectId": "179c3b88-a885-49ea-8670-5f2b883b1bf0"
+        "projectId": "6286bb4a-11c4-4e41-a41f-bc05fac84f57"
       }
     }
   }
